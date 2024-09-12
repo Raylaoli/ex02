@@ -15,7 +15,7 @@ class Endereco:
             f"\nLongradouro: {self.longradouro}"
             f"\nNúmero: {self.numero}"
             f"\nComplemento: {self.complemento}"
-            f"CEP: {self.cep}"
+            f"\nCEP: {self.cep}"
             f"\nCidade: {self.cidade}"
             f"\nUnidade federativa: {self.uf.value}"
         )
